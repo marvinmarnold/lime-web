@@ -3,6 +3,12 @@
 News
 ====
 
+=== 2016-10-06 - LibreRouter
+
+The Libre Router project will design and produce a high performance multi-radio wireless router targeted at Community Networks needs.
+
+For more info visit the https://librerouter.org/[librerouter web]. Or read the https://guifi.net/ca/node/90285[guifi.net article] (spanish).
+
 === 2016-08-06 - Endorsement to LEDE project
 
 image:img/lede.png["The LEDE logo",role="right"]
@@ -20,4 +26,4 @@ Venue:	CSA La Talaia, Passeig Mas Roig 52-54/ Rambla Jacint Verdaguer 215, FGC: 
 Naming:	LiMeCat2016 +
 Date:	2016-04-16T12:00+02:00/2016-04-17T17:00+02:00 +
 Venue:	CSOA Matakrostes, Passeig de Sevilla 132, Valldoreix, Barcelona. https://guifi.net/VDXpgSevilla132[Map]. +
-Report:	http://lists.libre-mesh.org/pipermail/users/2016-April/000101.html[email] in Spanish.
+Report:	https://lists.libremesh.org/pipermail/lime-users/2016-April/000101.html[email] in Spanish.

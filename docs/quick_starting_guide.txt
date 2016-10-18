@@ -1,0 +1,16 @@
+---
+---
+LibreMesh Quick Starting Guide
+==============================
+
+== Compatible Hardware
+WORK IN PROGRESS
+
+== Flashing
+WORK IN PROGRESS
+
+== First connection
+WORK IN PROGRESS
+
+== Configuration
+WORK IN PROGRESS
